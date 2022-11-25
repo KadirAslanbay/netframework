@@ -1,0 +1,2 @@
+# netframework
+.net framework nedir
